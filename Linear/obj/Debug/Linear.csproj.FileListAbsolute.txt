@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\PolynomialTesting\Linear\bin\Debug\Linear.dll
+C:\Users\User\source\repos\PolynomialTesting\Linear\bin\Debug\Linear.pdb
+C:\Users\User\source\repos\PolynomialTesting\Linear\obj\Debug\Linear.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\PolynomialTesting\Linear\obj\Debug\Linear.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PolynomialTesting\Linear\obj\Debug\Linear.dll
+C:\Users\User\source\repos\PolynomialTesting\Linear\obj\Debug\Linear.pdb

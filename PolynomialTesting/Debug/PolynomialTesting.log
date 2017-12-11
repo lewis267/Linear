@@ -1,0 +1,2 @@
+﻿  PolynomialTesting.cpp
+c:\users\user\source\repos\polynomialtesting\polynomialtesting\polynomialtesting.cpp(14): error C2296: '<<': illegal, left operand has type 'math::polynomial<int> (__cdecl *)(void)'
