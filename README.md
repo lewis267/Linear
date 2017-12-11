@@ -1,2 +1,2 @@
 # Linear
-Quick nights work
+Quick library of some linear concepts.
